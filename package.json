@@ -17,7 +17,7 @@
     "corslite": "0.0.5",
     "d3": "3.5.4",
     "debounce": "0.0.3",
-    "mapbox.js": "1.5.2",
+    "mapbox.js": "1.6.4",
     "polyline": "0.0.3",
     "queue-async": "^1.0.7"
   },
